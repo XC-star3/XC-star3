@@ -13,7 +13,7 @@
 
 </div>
 
-![头像](XC-Main/image/头像.png)
+![头像](XC-main/image/头像.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/XC-star3/count.svg)
 
