@@ -13,7 +13,7 @@
 
 </div>
 
-![头像]([XC-main/image/头像.png](https://github.com/XC-star3/XC-star3/tree/ae217f2d0166f93de4de9de4535ac95167454205/XC-main/image))
+![头像](头像.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/XC-star3/count.svg)
 
