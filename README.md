@@ -1,8 +1,7 @@
-<div id="title" align=center>
- <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hello,+World!;Welcome+to+XC-star3+GitHub!" />
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HALLO%20WORLD!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20XCstar3!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
-<img src="https://komarev.com/ghpvc/?username=XC-star3&color=blue" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=XC-star3&show_icons=true&theme=radical" />
 
