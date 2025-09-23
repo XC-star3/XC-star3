@@ -1,5 +1,5 @@
 <div id="title" align=center>
-
+<img src="https://komarev.com/ghpvc/?username=XC-star3&color=blue" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=XC-star3&show_icons=true&theme=radical" />
 
@@ -14,6 +14,9 @@
 
 ![头像](头像.PNG)
 
-<img src="https://komarev.com/ghpvc/?username=XC-star3&color=blue" />
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,matlab" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,java,html,css,javascript,matlab,cmake,arduino,arduino,anaconda,vscode" />
+  </a>
+</p>
