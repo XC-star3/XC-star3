@@ -1,6 +1,5 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
 
 <img src="https://github-readme-stats.vercel.app/api?username=XC-star3&show_icons=true&theme=radical" />
 
