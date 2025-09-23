@@ -2,7 +2,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XC-star3&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+<img src="https://github-readme-stats.vercel.app/api?username={XC-star3}&show_icons=true&theme=radical" />
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-XCZ-yello)](https://www.zhihu.com/people/xcz-62-81)
 
