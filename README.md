@@ -16,3 +16,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/XC-star3/count.svg)
 
+<img src="https://komarev.com/ghpvc/?username=XC-star3&color=blue" />
