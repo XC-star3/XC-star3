@@ -16,4 +16,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=XC-star3&color=blue" />
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript，嵌入式" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,matlab" />
