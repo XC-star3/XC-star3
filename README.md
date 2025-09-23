@@ -14,6 +14,6 @@
 
 ![头像](头像.PNG)
 
-![Visitor Count](https://profile-counter.glitch.me/XC-star3/count.svg)
-
 <img src="https://komarev.com/ghpvc/?username=XC-star3&color=blue" />
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript，嵌入式" />
