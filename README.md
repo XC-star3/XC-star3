@@ -23,7 +23,7 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,java,html,css,javascript,matlab,cmake,arduino,arduino,anaconda,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,python,java,html,css,javascript,matlab,cmake,,arduino,anaconda,vscode" />
   </a>
 </p>
 
